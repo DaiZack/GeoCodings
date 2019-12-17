@@ -11,3 +11,12 @@ https://nominatim.openstreetmap.org/reverse?format=json&lat=43.1592356&lon=-79.2
 install locally
 
 http://nominatim.org/release-docs/latest/admin/Installation/
+
+Data Downloading Page
+
+http://download.geofabrik.de/
+
+Canada Data
+http://download.geofabrik.de/north-america/canada-latest.osm.pbf
+
+
