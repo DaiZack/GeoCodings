@@ -8,6 +8,6 @@ reverse api
 
 https://nominatim.openstreetmap.org/reverse?format=json&lat=43.1592356&lon=-79.2478194
 
-install
+install locally
 
 http://nominatim.org/release-docs/latest/admin/Installation/
