@@ -1,0 +1,1 @@
+http://nominatim.org/release-docs/latest/admin/Installation/
