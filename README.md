@@ -19,4 +19,6 @@ http://download.geofabrik.de/
 Canada Data
 http://download.geofabrik.de/north-america/canada-latest.osm.pbf
 
+If error when parsing the pbf to sql, delete /home/me/nominatimdata/postgresdata folder
+
 
