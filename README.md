@@ -2,7 +2,7 @@
 
 geocoding api
 
-https://nominatim.openstreetmap.org/search?format=json&q=43%20church%20street%20st%20st%20catharines%20on%20ca
+https://nominatim.openstreetmap.org/search?format=json&addressdetails=1&q=43%20church%20street%20st%20st%20catharines%20on%20ca
 
 reverse api
 
